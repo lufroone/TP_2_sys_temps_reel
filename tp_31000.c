@@ -1,0 +1,1 @@
+Oui le code est déterministe car il est reproductible. Même si le processeur est plus rapide avec les pauses le code attendra et ainsi sera reproduit correctement.
